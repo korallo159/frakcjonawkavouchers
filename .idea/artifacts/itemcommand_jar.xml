@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="itemcommand:jar">
+    <output-path>$USER_HOME$/Desktop/moje pluginy/plugins</output-path>
+    <root id="archive" name="itemcommand.jar">
+      <element id="module-output" name="itemcommand" />
+    </root>
+  </artifact>
+</component>

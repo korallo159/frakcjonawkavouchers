@@ -1,0 +1,13 @@
+name: zmianaFrakcji
+version: 1.0
+main: koral.itemcommand.ItemCommand
+api-version: 1.13
+authors: [koral]
+commands:
+  dajvoucher:
+    permission: zmienFrakcje.admin
+  voucherinfoadmin:
+    permission: zmienFrakcje.admin
+permissions:
+  zmienFrakcje.admin:
+    default: op
